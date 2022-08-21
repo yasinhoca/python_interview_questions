@@ -3,9 +3,14 @@
 15 Python interview questions and answers.
 2022 interview questions
 
-1.Check if list contains integer x2.Get missing number in [1..100]
+1.Check if list contains integer x
+
+2.Get missing number in [1..100]
+
 3.Find dublicate number in integer list
+
 4.Compute the intersection of two lists
+
 5.Check if two strings are anagrams
 6.Find max and min in unsorted list
 7.Remove all duplicates from list
